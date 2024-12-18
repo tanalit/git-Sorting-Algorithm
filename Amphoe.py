@@ -1,3 +1,4 @@
+
 with open ('Amphoe.txt','r',encoding='utf-8') as f:
     alist = list(f)
     aa = []
